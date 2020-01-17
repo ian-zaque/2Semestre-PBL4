@@ -1,0 +1,34 @@
+Bahia - Roteamento de Veiculos
+Feira de Santana=510=120=0
+Irara=534=96=1
+Serrinha=511=52=2
+Alagoinhas=574=110=3
+Riachao do Jacuipe=461=65=4
+Esplanada=632=68=5
+Pojuca=583=147=6
+Ipira=420=110=7
+Jacobina=350=15=8
+Camacari=583=177=9
+Baixa Grande=369=86=10
+Nazare=499=219=11
+Salvador=562=209=12
+Mundo Novo=335=68=13
+Ruy Barbosa=332=122=14
+Santa Ines=409=246=15
+Utinga=261=101=16
+Itaberaba=355=153=17
+Jequie=379=318=18
+Ubaitaba=462=367=19
+Bom Jesus da Serra=324=378=20
+Itacare=500=369=21
+Sussuarana=248=347=22
+Brumado=195=360=23
+Anage=260=399=24
+Seabra=186=140=25
+Lencois=227=155=26
+Macaubas=73=214=27
+Ibotirama=20=110=28
+Morpara=15=37=29
+Barra do Mendes=148=58=30
+Irece=175=15=31
+Canarana=185=54=32
